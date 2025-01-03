@@ -13,8 +13,8 @@ The Andes, with its diverse topography and climate, is a renowned cradle for ada
 ## Figures
 Figure 1 is a scatterplot while Figure 2 is a boxplox
   
-  Figure1_scatterplot.R
+  Figure1_scatterplot.R: for the phylogenetic regression line, I ran a pgls.SEy: http://blog.phytools.org/2017/03/more-on-pgls.html
   
-  Figure2_boxplox.R
+  Figure2_boxplox.R; for this one I merge the boxplot and phylogenetic tree in Illustrator
 
-
+For more information please contact me in: jhancsalazar@wustl.edu
